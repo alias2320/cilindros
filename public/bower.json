@@ -1,0 +1,17 @@
+{
+  "name": "Cilindros",
+  "version": "0",
+  "authors": [
+    "Angelica Sandoval"
+  ],
+  "description": "Paquetes del frontend para el proyecto Cilindros.",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
